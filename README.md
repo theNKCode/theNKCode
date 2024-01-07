@@ -28,8 +28,8 @@
 </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="mysql" width="40" height="40"/> </a> </p>
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenkcode&show_icons=true&locale=en&layout=compact" alt="thenkcode" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenkcode&show_icons=true&locale=en&layout=donut&theme=transparent" alt="thenkcode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenkcode&show_icons=true&locale=en" alt="thenkcode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenkcode&show_icons=true&locale=en&theme=transparent" alt="thenkcode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenkcode&" alt="thenkcode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenkcode&theme=transparent" alt="thenkcode" /></p>
